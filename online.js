@@ -1,3 +1,5 @@
+// Last update: 15.02.2020 - 4:33
+
 (function () {
     'use strict';
 
