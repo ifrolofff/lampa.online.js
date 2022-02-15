@@ -3,9 +3,9 @@
 (function () {
     'use strict';
 
-	// --------------------
-	// VideoCDN
-	// --------------------
+    // --------------------
+    // VideoCDN
+    // --------------------
     function videocdn(component, _object) {
       var network = new Lampa.Reguest();
       var extract = {};
@@ -402,9 +402,9 @@
     }
 
 
-	// --------------------
-	// Rezka (VoidBoost)
-	// --------------------
+    // --------------------
+    // Rezka (VoidBoost)
+    // --------------------
     function rezka(component, _object) {
       var network = new Lampa.Reguest();
       var extract = {};
@@ -840,9 +840,9 @@
     }
 
 
-	// --------------------
-	// Kinobase
-	// --------------------
+    // --------------------
+    // Kinobase
+    // --------------------
     function kinobase(component, _object) {
       var network = new Lampa.Reguest();
       var extract = {};
@@ -1155,9 +1155,9 @@
     }
 
 
-	// --------------------
-	// Collaps
-	// --------------------
+    // --------------------
+    // Collaps
+    // --------------------
     function collaps(component, _object) {
       var network = new Lampa.Reguest();
       var extract = {};
