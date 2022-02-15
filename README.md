@@ -31,8 +31,7 @@
 
 4. Выполните скачивания скрипта из данного репозитория на ваш роутер, в ранее созданную для него директорию.
 
-> wget --no-check-certificate -O "/www/js/lampa/online.js" "https://raw.githubusercontent.com/
-ifrolofff/lampa.online.js/main/online.js"
+> wget --no-check-certificate -O "/www/js/lampa/online.js" "https://raw.githubusercontent.com/ifrolofff/lampa.online.js/main/online.js"
 
 Теперь скрипт будет доступен на вашем роутере и к нему смогут получить доступ все те, кто имеет доступ к веб-интерфейсу роутера.
 Для доступа к скрипту используйте ссылку: http://192.168.0.1/js/lampa/online.js
